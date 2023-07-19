@@ -1,0 +1,33 @@
+_repo: En-croupe-de-Bellone_71023
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mille, Pierre
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '6263'
+    url: http://www.gutenberg.org/2009/agents/6263
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Mille
+description: ''
+edition_note: 4. éd.
+gutenberg_issued: '2023-06-22'
+identifiers:
+  gutenberg: '71023'
+  lccn: '20001053'
+language: fr
+pgterms:marc904: https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001104514539
+pgterms:marc905: 20230324225035mille
+pgterms:marc906: '1916'
+pgterms:marc907: FR
+production_note: Laurent Vogel (file was produced from images generously made available
+  by the Bibliothèque municipale de Lyon (Numelyo))
+publication_note: '  $aFrance :$bGeorges Crès, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+- GITenberg
+title: En croupe de Bellone
+url: http://www.gutenberg.org/ebooks/71023
